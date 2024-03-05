@@ -23,5 +23,6 @@ const slice=createSlice({
 })
 
 export const {handleAddedItems}= slice.actions
+
 export const reducer=slice.reducer
 export default slice
